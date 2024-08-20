@@ -9,7 +9,7 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering is the systematic application of engineering principles, methods and tools to the development and maintenance of high quality software systems.
 Importance: It enables creation of reliable, scalable and innovative software solutions that meet user needs 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering
 
 The development of programming languages e.g Fortran, C
 Establishment of software engineering as a discipline in 1960s
